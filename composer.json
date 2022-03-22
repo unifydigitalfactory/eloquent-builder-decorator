@@ -1,5 +1,5 @@
 {
-    "name": "paulhenri-l/eloquent-builder-decorator",
+    "name": "the-librarian/eloquent-builder-decorator",
     "description": "Allows you to decorate Laravel query builders",
     "type": "library",
     "license": "MIT",
